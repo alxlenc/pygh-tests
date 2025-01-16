@@ -1,3 +1,4 @@
 ## This is a Title
 I create a file.
 
+Connect to the `utility` server and verify that the audit logs are received by the syslog service.	
