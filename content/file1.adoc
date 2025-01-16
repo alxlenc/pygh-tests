@@ -5,4 +5,4 @@ The operator created the file.
 
 This content was created by an awesome team.
 
-The issue is resolved by the developer.
+The developer has resolved the issue.
