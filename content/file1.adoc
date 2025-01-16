@@ -1,4 +1,6 @@
 ## This is a Title
 I create a file.
 
+When a cluster is provisioned, each machine in the cluster requires information about the cluster.
+
 Connect to the `utility` server and verify that the audit logs are received by the syslog service.	
