@@ -1,7 +1,7 @@
 ## This is a Title
 I create a file.
 
-The file was created by the operator.
+The operator created the file.
 
 This content was created by an awesome team.
 
