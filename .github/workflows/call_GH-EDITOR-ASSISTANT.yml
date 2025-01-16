@@ -25,6 +25,6 @@ jobs:
       run: |
         PR_ID=${{ github.event.pull_request.number }}
         REPO_PATH=${{ github.repository }}
-        FULL_URL="${ENDPOINT_URL}/${REPO_PATH}/${PR_ID}/changes"
+        FULL_URL="${ENDPOINT_URL}/${REPO_PATH}/pr/${PR_ID}/changes"
         echo "Calling URL: $FULL_URL"
         curl -X GET "$FULL_URL"
