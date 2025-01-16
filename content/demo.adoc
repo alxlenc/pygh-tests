@@ -21,3 +21,6 @@ area = length * width
 print(area)
 ----
 
+Operations done manually using `ceph-volume` might not be visible by the `cephadm` tool.
+
+It is possible that the scheduled snapshot takes some time to be created.
