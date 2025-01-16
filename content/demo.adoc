@@ -2,3 +2,26 @@
 
 This file was created by the best team ever. 
 
+This chapter deals with many of the issues relating to the fundamental syntax of the Python language.
+
+Python is case sensitive. Therefore, the following two variables are different.
+
+[source, python]
+----
+ the_Person = "Him"
+ the_person = "Her"
+----
+
+Python statements do not end with a semicolon, but you can use one to separate two statements on the same line.
+
+[source, python]
+----
+length = 10; width = 5
+area = length * width
+print(area)
+----
+
+Operations done manually using `ceph-volume` might not be visible by the `cephadm` tool.
+
+It is possible that the scheduled snapshot takes some time to be created.
+
